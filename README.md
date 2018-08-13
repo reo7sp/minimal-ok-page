@@ -11,9 +11,12 @@ CSS:
 body {
     font-family: sans-serif;
     font-size: 16px;
-    line-height: 1.7em;
     color: #222222;
     margin: 16px;
+}
+
+p, ul {
+    line-height: 1.6em;
 }
 
 a {
