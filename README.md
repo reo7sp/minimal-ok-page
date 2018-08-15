@@ -17,6 +17,7 @@ body {
 
 p, ul {
     line-height: 1.6em;
+    margin: 0.8em 0;
 }
 
 a {
