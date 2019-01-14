@@ -15,8 +15,11 @@ body {
     margin: 16px;
 }
 
-p, ul {
+p, ul, li {
     line-height: 1.6em;
+}
+
+p, ul {
     margin: 0.8em 0;
 }
 
