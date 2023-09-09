@@ -1,10 +1,14 @@
 # minimal-ok-page
 
-Sane defaults for simple pages with text.
+Sane defaults for simple pages with text. 
 
 Example: [open page](https://reo7sp.github.io/minimal-ok-page/) or [see raw html](https://raw.githubusercontent.com/reo7sp/minimal-ok-page/master/index.html).
 
 Shortcut to this page: https://mop.oleg.rocks.
+
+<br>
+
+>For further styling, it's useful to use https://basehold.it/.
 
 <br>
 
